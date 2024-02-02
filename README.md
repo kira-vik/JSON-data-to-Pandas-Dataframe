@@ -26,7 +26,7 @@
 <!--ABOUT THE PROJECT-->
 ## About the Project
 
-![JSON data to Pandas Dataframe](https://github.com/kira-vik/JSON-data-to-Pandas-Dataframe/assets/35596661/d64e3ccc-f958-4470-95ff-f8ad680628ec)
+![JSONtoPandasDF](https://github.com/kira-vik/JSON-data-to-Pandas-Dataframe/assets/35596661/e08ba223-6ba2-4158-bdff-841f05e274a5)
 
 This project builds on our understanding of how APIs work, and how to handle JSON data. It also goes a step further in translating JSON structured data from an API into a Pandas Dataframe, and finally how to export the generated dataframe into an external file, which in this case is a CSV file.
 
